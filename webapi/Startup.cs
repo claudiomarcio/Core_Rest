@@ -9,8 +9,8 @@ using Microsoft.Extensions.Options;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
-using Infra.EntityConfiguration;
-using Infra.Repositories;
+using Domain.EntityConfiguration;
+using Domain.Repositories;
 using Domain.Models.Entities;
 using Microsoft.AspNetCore.Rewrite;
 using webapi.Controllers;
@@ -18,7 +18,7 @@ using Microsoft.AspNetCore.Mvc.Cors.Internal;
 using Microsoft.AspNetCore.Mvc;
 using Domain.DTO;
 using signed::StackExchange.Redis;
-using Infra.Interfaces.Repositories;
+using Domain.Interfaces.Repositories;
 
 namespace webapi
 {

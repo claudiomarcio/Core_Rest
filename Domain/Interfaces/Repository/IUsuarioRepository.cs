@@ -1,9 +1,9 @@
 ﻿using Domain.DTO;
+using Domain.Interfaces.Repositories.RepositoryBase;
 using Domain.Models.Entities;
-using Infra.Interfaces.Repositories.RepositoryBase;
 using System.Collections.Generic;
 
-namespace Infra.Interfaces.Repositories
+namespace Domain.Interfaces.Repositories
 {
     public interface IUsuarioRepository : IRepositoryBase<Usuario>
     {

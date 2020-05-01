@@ -1,8 +1,8 @@
 ﻿
 using Domain.Authorize;
 using Domain.Models.Entities;
-using Infra.Interfaces.Repositories;
-using Infra.Repositories;
+using Domain.Interfaces.Repositories;
+using Domain.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using System;
 

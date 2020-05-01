@@ -77,3 +77,33 @@ D:\EbagRest\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CopyComplete
 D:\EbagRest\webapi\obj\Debug\netcoreapp2.2\webapi.dll
 D:\EbagRest\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
 D:\EbagRest\webapi\obj\Debug\netcoreapp2.2\webapi.genruntimeconfig.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cs
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.dll
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Ebag\web.config
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\web.config
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\aws-windows-deployment-manifest.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Connected Services\Application Insights\ConnectedService.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Ebag\appsettings.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Ebag\Connected Services\Application Insights\ConnectedService.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Ebag\webapi.deps.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Ebag\webapi.runtimeconfig.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\webapi.deps.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.dev.json
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\webapi.dll
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\webapi.pdb
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Infra.dll
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Api_Rest\Core_Rest\webapi\bin\Debug\netcoreapp2.2\Infra.pdb
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CopyComplete
+D:\Api_Rest\Core_Rest\webapi\obj\Debug\netcoreapp2.2\webapi.genruntimeconfig.cache

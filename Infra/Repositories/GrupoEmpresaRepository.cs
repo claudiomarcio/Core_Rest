@@ -1,7 +1,7 @@
 ﻿using Domain.DTO;
+using Domain.Interfaces.Repositories;
 using Domain.Models.Entities;
-using Infra.EntityConfiguration;
-using Infra.Interfaces.Repositories;
+using Domain.EntityConfiguration;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -11,7 +11,7 @@ using System.Net;
 using System.Runtime.Serialization.Json;
 using System.Text;
 
-namespace Infra.Repositories
+namespace Domain.Repositories
 {
     public class GrupoEmpresaRepository : RepositoryBase<GrupoEmpresa>, IGrupoEmpresaRepository
     {

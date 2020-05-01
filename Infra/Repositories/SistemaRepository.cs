@@ -1,9 +1,9 @@
-﻿using Domain.Models.Entities;
-using Infra.EntityConfiguration;
-using Infra.Interfaces.Repositories;
+﻿using Domain.Interfaces.Repositories;
+using Domain.Models.Entities;
+using Domain.EntityConfiguration;
 
 
-namespace Infra.Repositories
+namespace Domain.Repositories
 {
     public class SistemaRepository : RepositoryBase<Sistema>, ISistemaRepository
     {

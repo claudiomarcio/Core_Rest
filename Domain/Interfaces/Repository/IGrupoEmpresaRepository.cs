@@ -1,7 +1,7 @@
 using Domain.Models.Entities;
-using Infra.Interfaces.Repositories.RepositoryBase;
+using Domain.Interfaces.Repositories.RepositoryBase;
 
-namespace Infra.Interfaces.Repositories
+namespace Domain.Interfaces.Repositories
 {
     public interface IGrupoEmpresaRepository : IRepositoryBase<GrupoEmpresa>
     {

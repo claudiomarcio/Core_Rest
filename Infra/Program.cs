@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Infra
+namespace Domain
 {
     class Program
     {

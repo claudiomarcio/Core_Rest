@@ -1,8 +1,8 @@
 using Domain.DTO;
 using Domain.Models.Entities;
-using Infra.EntityConfiguration;
-using Infra.Interfaces.Repositories;
-using Infra.Repositories;
+using Domain.EntityConfiguration;
+using Domain.Interfaces.Repositories;
+using Domain.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;

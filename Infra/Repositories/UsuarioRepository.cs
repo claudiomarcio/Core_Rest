@@ -1,15 +1,15 @@
 ﻿using Domain.DTO;
+using Domain.Interfaces.Repositories;
 using Domain.Models.Entities;
 using Domain.SecurityHash;
-using Infra.EntityConfiguration;
-using Infra.Interfaces.Repositories;
+using Domain.EntityConfiguration;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 
-namespace Infra.Repositories
+namespace Domain.Repositories
 {
     public class UsuarioRepository : RepositoryBase<Usuario>, IUsuarioRepository
     {

@@ -1,9 +1,9 @@
 using Domain.EntityConfiguration.Mapping;
 using Domain.Models.Entities;
-using Infra.EntityConfiguration.Mapping;
+using Domain.EntityConfiguration.Mapping;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infra.EntityConfiguration
+namespace Domain.EntityConfiguration
 {
     public class ApplicationDbContext : DbContext
     {

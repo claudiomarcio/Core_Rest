@@ -33,3 +33,14 @@ D:\EbagRest\Domain\obj\Debug\netcoreapp2.2\Domain.dll
 D:\EbagRest\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
 D:\EbagRest\Domain\obj\Debug\netcoreapp2.2\Domain.genruntimeconfig.cache
 D:\EbagRest\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+D:\Api_Rest\Core_Rest\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+D:\Api_Rest\Core_Rest\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+D:\Api_Rest\Core_Rest\Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+D:\Api_Rest\Core_Rest\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+D:\Api_Rest\Core_Rest\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+D:\Api_Rest\Core_Rest\Domain\obj\Debug\netcoreapp2.2\Domain.genruntimeconfig.cache

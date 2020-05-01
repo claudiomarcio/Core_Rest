@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Domain.Interfaces.Repositories.RepositoryBase;
 using EFCore.BulkExtensions;
-using Infra.EntityConfiguration;
-using Infra.Interfaces.Repositories.RepositoryBase;
+using Domain.EntityConfiguration;
 
 
 
 
-namespace Infra.Repositories
+namespace Domain.Repositories
 {
     public class RepositoryBase<TEntity> : IRepositoryBase<TEntity> where TEntity : class
     {

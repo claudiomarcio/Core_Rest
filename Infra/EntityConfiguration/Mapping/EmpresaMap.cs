@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 using Domain.Models.Entities;
 
-namespace Infra.EntityConfiguration.Mapping
+namespace Domain.EntityConfiguration.Mapping
 {
     public class EmpresaMap : IEntityTypeConfiguration<Empresa>
      {
